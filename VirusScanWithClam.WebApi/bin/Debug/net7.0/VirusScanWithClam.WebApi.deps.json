@@ -10,7 +10,7 @@
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": "7.0.2",
           "Swashbuckle.AspNetCore": "6.4.0",
-          "nClam": "5.0.1"
+          "nClam": "7.0.0"
         },
         "runtime": {
           "VirusScanWithClam.WebApi.dll": {}
@@ -36,11 +36,11 @@
           }
         }
       },
-      "nClam/5.0.1": {
+      "nClam/7.0.0": {
         "runtime": {
           "lib/netstandard2.0/nClam.dll": {
-            "assemblyVersion": "5.0.1.0",
-            "fileVersion": "5.0.1.0"
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.0.0.0"
           }
         }
       },
@@ -111,12 +111,12 @@
       "path": "microsoft.openapi/1.4.3",
       "hashPath": "microsoft.openapi.1.4.3.nupkg.sha512"
     },
-    "nClam/5.0.1": {
+    "nClam/7.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-j5c8mZMGE1QWXRoVt2JjUn8fPx0senIXhXeXeBLj1LPSu58v44lBaIGqXA7b18ScAljl8RUkHWGhHReC8F5rIw==",
-      "path": "nclam/5.0.1",
-      "hashPath": "nclam.5.0.1.nupkg.sha512"
+      "sha512": "sha512-nOhuJW3kQ5+w7HwZrG0eN3A87nnIuuz4Dka8cEMUs6jEML8FW50yepHl4wV1jtiMIlVlZJSMM0ctNhLXw8BcRw==",
+      "path": "nclam/7.0.0",
+      "hashPath": "nclam.7.0.0.nupkg.sha512"
     },
     "Swashbuckle.AspNetCore/6.4.0": {
       "type": "package",

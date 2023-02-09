@@ -7,6 +7,7 @@
 /Users/sahabt/Desktop/VirusScanExample/VirusScan/VirusScanWithClam.WebApi/bin/Debug/net7.0/VirusScanWithClam.WebApi.pdb
 /Users/sahabt/Desktop/VirusScanExample/VirusScan/VirusScanWithClam.WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
 /Users/sahabt/Desktop/VirusScanExample/VirusScan/VirusScanWithClam.WebApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/sahabt/Desktop/VirusScanExample/VirusScan/VirusScanWithClam.WebApi/bin/Debug/net7.0/nClam.dll
 /Users/sahabt/Desktop/VirusScanExample/VirusScan/VirusScanWithClam.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/sahabt/Desktop/VirusScanExample/VirusScan/VirusScanWithClam.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/sahabt/Desktop/VirusScanExample/VirusScan/VirusScanWithClam.WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -31,4 +32,3 @@
 /Users/sahabt/Desktop/VirusScanExample/VirusScan/VirusScanWithClam.WebApi/obj/Debug/net7.0/VirusScanWithClam.WebApi.pdb
 /Users/sahabt/Desktop/VirusScanExample/VirusScan/VirusScanWithClam.WebApi/obj/Debug/net7.0/VirusScanWithClam.WebApi.genruntimeconfig.cache
 /Users/sahabt/Desktop/VirusScanExample/VirusScan/VirusScanWithClam.WebApi/obj/Debug/net7.0/ref/VirusScanWithClam.WebApi.dll
-/Users/sahabt/Desktop/VirusScanExample/VirusScan/VirusScanWithClam.WebApi/bin/Debug/net7.0/nClam.dll

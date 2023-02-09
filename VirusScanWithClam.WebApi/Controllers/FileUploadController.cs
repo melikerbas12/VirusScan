@@ -1,5 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Options;
 using VirusScanWithClam.WebApi.Filter;
+using VirusScanWithClam.WebApi.Models;
 
 namespace VirusScanWithClam.WebApi.Controllers;
 
@@ -8,7 +10,6 @@ namespace VirusScanWithClam.WebApi.Controllers;
 public class FileUploadController : ControllerBase
 {
     private readonly ILogger<WeatherForecastController> _logger;
-
     public FileUploadController(ILogger<WeatherForecastController> logger)
     {
         _logger = logger;
@@ -16,9 +17,10 @@ public class FileUploadController : ControllerBase
 
     [ProducesResponseType(200, Type = typeof(int))]
     [HttpPost]
-    [CheckFile]
+    [ServiceFilter(typeof(CheckFileAttribute))]
     public async Task<IActionResult> UploadFile(IFormFile file)
     {
-        return Ok();
+        var a = "aaa";
+        return Ok(a);
     }
 }

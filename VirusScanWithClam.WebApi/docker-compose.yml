@@ -1,0 +1,18 @@
+version: "3.8"
+services:
+  clamav:
+    image: mkodockx/docker-clamav:alpine
+    container_name: nextav
+    restart: always
+    ports:
+      - 3310:3310 
+    volumes:
+      - clam:/var/lib/clamav
+    healthcheck:
+      test: ["CMD", "./check.sh"]
+      interval: 60s
+      retries: 3
+      start_period: 120s
+
+volumes:
+  clam:

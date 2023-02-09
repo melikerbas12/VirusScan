@@ -45,7 +45,7 @@
           }
         }
       },
-      "nClam/5.0.1": {
+      "nClam/7.0.0": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/nClam.dll": {}
@@ -380,15 +380,15 @@
         "microsoft.openapi.nuspec"
       ]
     },
-    "nClam/5.0.1": {
-      "sha512": "j5c8mZMGE1QWXRoVt2JjUn8fPx0senIXhXeXeBLj1LPSu58v44lBaIGqXA7b18ScAljl8RUkHWGhHReC8F5rIw==",
+    "nClam/7.0.0": {
+      "sha512": "nOhuJW3kQ5+w7HwZrG0eN3A87nnIuuz4Dka8cEMUs6jEML8FW50yepHl4wV1jtiMIlVlZJSMM0ctNhLXw8BcRw==",
       "type": "package",
-      "path": "nclam/5.0.1",
+      "path": "nclam/7.0.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "lib/netstandard2.0/nClam.dll",
-        "nclam.5.0.1.nupkg.sha512",
+        "nclam.7.0.0.nupkg.sha512",
         "nclam.nuspec"
       ]
     },
@@ -478,7 +478,7 @@
     "net7.0": [
       "Microsoft.AspNetCore.OpenApi >= 7.0.2",
       "Swashbuckle.AspNetCore >= 6.4.0",
-      "nClam >= 5.0.1"
+      "nClam >= 7.0.0"
     ]
   },
   "packageFolders": {
@@ -532,7 +532,7 @@
           },
           "nClam": {
             "target": "Package",
-            "version": "[5.0.1, )"
+            "version": "[7.0.0, )"
           }
         },
         "imports": [
