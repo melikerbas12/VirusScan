@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m2VSnqkIWfAuIzCruvIsjZ0Ywtj018mEYTLiKeAHQ8A=",
+  "Source": "VirusScanWithClam.WebApi",
+  "BasePath": "_content/VirusScanWithClam.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
